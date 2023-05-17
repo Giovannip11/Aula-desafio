@@ -37,4 +37,3 @@ function converter() {
 		document.body.style.backgroundColor = "#0000ff";
 	}
 }
-
